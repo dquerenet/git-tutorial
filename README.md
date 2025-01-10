@@ -1,2 +1,2 @@
-print("Git Tutorial Dalia Querenet!")
+Git Tutorial Dalia Querenet!
 
